@@ -1,0 +1,4 @@
+#Tue Mar 26 05:49:38 EDT 2019
+base.0=/home/mrinalini/Documents/DSProjects/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
